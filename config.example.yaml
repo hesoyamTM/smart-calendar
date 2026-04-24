@@ -1,0 +1,10 @@
+http:
+  port: 8080
+
+google:
+  client_id: "your-google-client-id.apps.googleusercontent.com"
+  client_secret: "your-google-client-secret"
+
+claude:
+  api_key: "sk-ant-..."
+  base_url: "https://api.anthropic.com"
